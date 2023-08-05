@@ -1,0 +1,12 @@
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\bin\Debug\parenthesis_data.csv
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\bin\Debug\Parenthesis Validator.exe.config
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\bin\Debug\Parenthesis Validator.exe
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\bin\Debug\Parenthesis Validator.pdb
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\obj\Debug\Parenthesis Validator.csproj.AssemblyReference.cache
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\obj\Debug\Parenthesis Validator.csproj.SuggestedBindingRedirects.cache
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\obj\Debug\Parenthesis_Validator.Form1.resources
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\obj\Debug\Parenthesis_Validator.Properties.Resources.resources
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\obj\Debug\Parenthesis Validator.csproj.GenerateResource.cache
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\obj\Debug\Parenthesis Validator.csproj.CoreCompileInputs.cache
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\obj\Debug\Parenthesis Validator.exe
+C:\Users\virensareen\source\repos\Parenthesis Validator\Parenthesis Validator\obj\Debug\Parenthesis Validator.pdb
